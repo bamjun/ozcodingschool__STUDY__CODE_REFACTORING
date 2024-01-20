@@ -1,4 +1,5 @@
 ## 오즈코딩스쿨 웹백엔드과정 스터디 코드리팩토링
+https://legend-palm-1f1.notion.site/7638c51a5e7f4a3394185add2e1ac98f
 
 <br>  
   
