@@ -16,5 +16,3 @@ https://legend-palm-1f1.notion.site/7638c51a5e7f4a3394185add2e1ac98f
   
 # 그룹원
 - 김범준
-- 신현민
-- 윤인아
